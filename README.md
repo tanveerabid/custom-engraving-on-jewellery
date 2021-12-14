@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @tanveerabid
-- 👀 I’m interested in programming and deployemnt
-- 🌱 I’m currently learning about cloud hosting and api's
-- 💞️ I’m looking to collaborate on enterprise level project
-- 📫 you can reach me on tanveerabid321@gmail.com
+- This is a small app for one of my client which engrave user text on jewelry products.
+- This app uses html and javascript.
 
-<!---
-tanveerabid/tanveerabid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
