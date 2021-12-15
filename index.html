@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta content="width=device-width, initial-scale=1" name="viewport" />
+	<title>Custom Engraving on Necklace</title>
+	<!-- style sheets start-->
+<link rel="stylesheet" type="text/css" href="css/normal.css">
+<link rel="stylesheet" type="text/css" href="css/mobileresponsive.css">
+<link rel="stylesheet" type="text/css" href="css/wlcd.css">
+<link rel="stylesheet" type="text/css" href="css/laptop.css">
+  <!-- style sheets start-->
+</head>
+<body>
+<!-- content wrapper start -->
+<div id="wrapper">
+  <!-- field change and input area start -->
+	<div id="row2"> 
+	 <form method="post" id="test_form">
+	   <h3 style="color: blue;">Try Our Name Necklace With Custom Printing</h3>
+	     <label>Choose the right Type of Necklace for you:</label>
+	     <select id="type" onchange="resetForm();">
+	     <option value="1">Only Beads</option>
+	     <option value="2">Clear Stone with Leaf & Beads</option>
+	     <option value="3">Clear Stone with Heart & Beads</option>
+	     <option value="4">Green Stone with Leaf & Beads</option>
+	     <option value="5">Clear Stone with Beads(Mother Special)</option>
+	     <option value="6">Clear Stone with Heart & Beads(Mother Special)</option>
+	     <option value="7">Clear Stone with Leaf & Beads(Mother Special)</option>
+	   </select>
+	   <label>Number of Desired Beads & Charms</label>
+	   <select id="selectBox" onchange="changeFunc();">
+      <option value="0">Select Numbers of Rings</option>
+	     <option value="1">1</option>
+	     <option value="2">2</option>
+	     <option value="3">3</option>
+	     <option value="4">4</option>
+	     <option value="5">5</option>
+	   </select>
+	 </form>
+	</div>
+<!-- field change and input area end -->
+<!-- necklace display area start -->
+  <div id="row1">
+	    <svg id="showtext"viewBox="0 0 400 400" style="margin-top: 120px;" xmlns="http://www.w3.org/2000/svg" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink">
+    </svg>
+  </div>
+<!-- necklace display area end -->	
+</div>
+<!-- content wrapper end -->
+</body>
+</html>
+<script type="text/javascript" src="js/custom.js"></script>

@@ -1,0 +1,398 @@
+@media only screen 
+and (min-device-width : 1280px) and (max-device-width : 1366px) {
+
+#displaytext{
+  font-family: Arial Narrow,Arial,sans-serif; 
+letter-spacing: 2px;
+color: black;
+font-stretch: ultra-condensed;
+ font-weight: 900;
+ line-height: 20;
+}
+#f1 {
+font-size: 11px;
+ text-shadow: 1px 1px;
+
+}
+#f2 {
+  font-size: 12px;
+  text-shadow: 1px 1px;
+
+}
+#f3 {
+  font-size: 13px;
+  text-shadow: 1px 1px;
+
+}
+#f4 {
+  font-size: 11.5px;
+
+
+}
+#f5 {
+
+  font-size: 11px;
+
+
+    
+}
+
+/*single bead */
+#curve111 {
+  d: path("M191,235  189,296");
+}#curve121 {
+  d: path("M191,235  189,296");
+}#curve131 {
+  d: path("M191,235  189,296");
+}#curve141 {
+  d: path("M191,235  189,296");
+}#curve151 {
+  d: path("M193,235  191,296");
+}#curve161 {
+  d: path("M193,235  191,296");
+}#curve171 {
+  d: path("M191,235  189,296");
+}
+/*single bead */
+
+/* 2 beads*/
+#curve211 {
+  d: path("M178,236 170,297");
+}
+
+#curve212 {
+   d: path("M211,236 225,290");
+}#curve221 {
+  d: path("M178,236 170,297");
+}
+
+#curve222 {
+   d: path("M211,236 225,290");
+}#curve231 {
+  d: path("M178,236 170,297");
+}
+
+#curve232 {
+   d: path("M211,236 225,290");
+}#curve241 {
+  d: path("M178,236 170,297");
+}
+
+#curve242 {
+   d: path("M211,236 225,290");
+}#curve251 {
+  d: path("M188,236 186,297");
+}
+
+#curve252 {
+   d: path("M221,232 242,290");
+}#curve261 {
+ d: path("M188,236 186,297");
+}
+
+#curve262 {
+   d: path("M221,232 242,290");;
+}#curve271 {
+  d: path("M178,236 170,297");
+}
+
+#curve272 {
+   d: path("M211,236 225,290");
+}
+/*2 beads*/
+
+/*3 beads*/
+#curve311 {
+  d: path("M160,226  139,270");
+}
+#curve312 {
+  d: path("M187,236  184,297");
+}
+#curve313 {
+ d: path("M221,233  236,270");
+}
+#curve321 {
+  d: path("M173,234  161,270");
+}
+#curve322 {
+  d: path("M200,239  207,297");
+}
+#curve323 {
+ d: path("M235,232  264,270");
+}
+#curve331 {
+  d: path("M173,234  161,270");
+}
+#curve332 {
+  d: path("M200,239  207,297");
+}
+#curve333 {
+ d: path("M235,232  264,270");
+}
+#curve341 {
+  d: path("M173,234  161,270");
+}
+#curve342 {
+  d: path("M200,239  207,297");
+}
+#curve343 {
+ d: path("M235,232  264,270");
+}
+#curve351 {
+  d: path("M185,236  179,270");
+}
+#curve352 {
+  d: path("M212,239  229,297");
+}
+#curve353 {
+ d: path("M243,224  292,270");
+}
+#curve361 {
+  d: path("M185,236  179,270");
+}
+#curve362 {
+   d: path("M212,239  229,297");
+}
+#curve363 {
+  d: path("M243,224  292,270");
+}
+#curve371 {
+  d: path("M173,234  161,270");
+}
+#curve372 {
+  d: path("M200,239  207,297");
+}#curve373 {
+ d: path("M235,232  264,270");
+}
+/*3 beads*/
+
+/* 4 beads*/
+  #curve411 {
+  d: path("M150,222  107,290");
+}
+
+#curve412 {
+  d: path("M179,235  170,290");
+}
+
+#curve413 {
+ d: path("M211,235  227,290");
+}
+
+#curve414 {
+  d: path("M240,224  274,280");
+}
+  #curve421 {
+  d: path("M152,225  124,280");
+}
+
+#curve422 {
+  d: path("M185,235  179,290");
+}
+
+#curve423 {
+ d: path("M218,233  239,290");
+}
+
+#curve424 {
+  d: path("M247,219  291,280");
+}
+  #curve431 {
+  d: path("M152,225  124,280");
+}
+
+#curve432 {
+  d: path("M185,235  179,290");
+}
+
+#curve433 {
+ d: path("M218,233  239,290");
+}
+
+#curve434 {
+  d: path("M247,219  291,280");
+}
+  #curve441 {
+  d: path("M152,225  124,280");
+}
+
+#curve442 {
+  d: path("M185,235  179,290");
+}
+
+#curve443 {
+ d: path("M218,233  239,290");
+}
+
+#curve444 {
+  d: path("M247,219  291,280");
+}
+  #curve471 {
+  d: path("M152,225  124,280");
+}
+  #curve451 {
+  d: path("M165,230  154,270");
+}
+
+#curve452 {
+  d: path("M198,235  203,280");
+}
+
+#curve453 {
+ d: path("M229,226  262,280");
+}
+
+#curve454 {
+  d: path("M255,207  324,270");
+}
+  #curve461 {
+  d: path("M165,230  154,270");
+}
+
+#curve462 {
+  d: path("M198,235  203,280");
+}
+
+#curve463 {
+ d: path("M229,226  262,280");
+}
+
+#curve464 {
+  d: path("M255,207  324,270");
+}
+#curve472 {
+  d: path("M185,235  179,290");
+}
+
+#curve473 {
+ d: path("M218,233  239,290");
+}
+
+#curve474 {
+  d: path("M247,219  291,280");
+}
+/* 4 beads*/
+
+/* 5 beads*/
+  #curve511 {
+  d: path("M135,210  75,277");
+}
+#curve512 {
+  d: path("M158,226  135,280");
+}
+#curve513 {
+  d: path("M190,235  190,290");
+}
+
+#curve514 {
+ d: path("M222,231  250,290");
+}
+
+#curve515 {
+  d: path("M250,217  300,270");
+}
+ #curve521 {
+  d: path("M139,216  98,270");
+}
+#curve522 {
+  d: path("M162,230  145,280");
+}
+#curve523 {
+  d: path("M194,237  198,290");
+}
+
+#curve524 {
+ d: path("M226,228  260,290");
+}
+
+#curve525 {
+  d: path("M251,210  325,270");
+}
+ #curve531 {
+  d: path("M139,216  98,270");
+}
+#curve532 {
+  d: path("M162,230  145,280");
+}
+#curve533 {
+  d: path("M194,237  198,290");
+}
+
+#curve534 {
+ d: path("M226,228  260,290");
+}
+
+#curve535 {
+  d: path("M251,210  325,270");
+}
+ #curve541 {
+  d: path("M139,216  98,270");
+}
+#curve542 {
+  d: path("M162,230  145,280");
+}
+#curve543 {
+  d: path("M194,237  198,290");
+}
+
+#curve544 {
+ d: path("M226,228  260,290");
+}
+
+#curve545 {
+  d: path("M251,210  325,270");
+}
+ #curve551 {
+  d: path("M143,224  112,270");
+}
+#curve552 {
+  d: path("M174,233  168,280");
+}
+#curve553 {
+  d: path("M207,233  221,290");
+}
+
+#curve554 {
+ d: path("M236,220  293,290");
+}
+
+#curve555 {
+  d: path("M260,198  345,250");
+}
+ #curve561 {
+  d: path("M155,224  126,270");
+}
+#curve562 {
+  d: path("M174,233  168,280");
+}
+#curve563 {
+  d: path("M207,233  221,290");
+}
+
+#curve564 {
+ d: path("M236,220  293,290");
+}
+
+#curve565 {
+  d: path("M260,198  345,250");
+}
+ #curve571 {
+  d: path("M139,216  98,270");
+}
+#curve572 {
+  d: path("M162,230  145,280");
+}
+#curve573 {
+  d: path("M194,237  198,290");
+}
+
+#curve574 {
+ d: path("M226,228  260,290");
+}
+
+#curve575 {
+  d: path("M251,210  325,270");
+}
+/* 5 beads*/
+
+}

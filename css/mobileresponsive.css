@@ -1,0 +1,412 @@
+@media only screen 
+and (min-device-width : 450px) and (max-device-width : 720px) {
+#wrapper{
+display: flex;
+flex-direction: column;
+width: 100%;
+}
+#row1{ 
+    background-position: center center; 
+    width: 100%;"
+}
+#row2{
+    width: 100%;"
+}
+
+#displaytext{
+  font-family: Arial Narrow,Arial,sans-serif; 
+letter-spacing: 2px;
+text-transform: uppercase;
+color: black;
+font-stretch: ultra-condensed;
+ font-weight: 900;
+ line-height: 20;
+}
+#f1 {
+font-size: 9px;
+ text-shadow: 1px 1px;
+
+}
+#f2 {
+  font-size: 10px;
+  text-shadow: 1px 1px;
+
+}
+#f3 {
+  font-size: 11px;
+  text-shadow: 1px 1px;
+
+}
+#f4 {
+  font-size: 9.5px;
+  text-shadow: 1px 1px;
+
+}
+#f5 {
+
+  font-size: 9px;
+   text-shadow: 1px 1px;
+
+    
+}
+/*for single ring for only beads*/
+#curve111 {
+   d: path("M192,234  190,296");
+}#curve121 {
+   d: path("M192,234  190,296");
+}#curve131 {
+   d: path("M192,234  190,296");
+}#curve141 {
+   d: path("M192,234  190,296");
+}#curve151 {
+   d: path("M194,234  192,296");
+}#curve161 {
+   d: path("M194,234  192,296");
+}#curve171 {
+   d: path("M192,234  190,296");
+}
+/*for single ring for only beads*/
+
+/*for 2 rings for only beads*/
+#curve211 {
+  d: path("M179,236 172,297");
+}
+#curve212 {
+  d: path("M213,236 225,290");
+}#curve221 {
+  d: path("M179,236 172,297");
+}
+
+#curve222 {
+  d: path("M213,236 225,290");
+}#curve231 {
+  d: path("M179,236 172,297");
+}
+
+#curve232 {
+  d: path("M213,236 225,290");
+}#curve241 {
+  d: path("M178,236 172,297");
+}
+
+#curve242 {
+  d: path("M213,236 225,290");
+}#curve251 {
+   d: path("M188,236 189,297");
+}
+
+#curve252 {
+    d: path("M218,231 242,290");
+}#curve261 {
+  d: path("M188,236 189,297");
+}
+
+#curve262 {
+ d: path("M218,231 242,290");
+}#curve271 {
+  d: path("M179,236 172,297");
+}
+
+#curve272 {
+  d: path("M213,236 225,290");
+}
+/*for 2 rings for only beads*/
+
+/*3 rings*/
+#curve311 {
+  d: path("M165,229  137,270");
+}
+#curve312 {
+  d: path("M187,236  184,297");
+}
+#curve313 {
+ d: path("M221,233  239,268");
+}
+#curve321 {
+  d: path("M171,234  155,270");
+}
+#curve322 {
+  d: path("M200,239  207,297");
+}
+#curve323 {
+ d: path("M235,232  264,270");
+}
+#curve331 {
+  d: path("M171,234  155,270");
+}
+#curve332 {
+  d: path("M200,239  207,297");
+}
+#curve333 {
+ d: path("M235,232  264,270");
+}
+#curve341 {
+  d: path("M171,234  155,270");
+}
+#curve342 {
+  d: path("M200,239  207,297");
+}
+#curve343 {
+ d: path("M235,232  264,270");
+}
+#curve351 {
+  d: path("M183,236  173,270");
+}
+#curve352 {
+  d: path("M212,239  229,297");
+}
+#curve353 {
+ d: path("M243,224  292,270");
+}
+#curve361 {
+  d: path("M183,236  173,270");
+}
+#curve362 {
+   d: path("M212,239  229,297");
+}
+#curve363 {
+  d: path("M243,224  292,270");
+}
+#curve371 {
+  d: path("M171,234  155,270");
+}
+#curve372 {
+  d: path("M200,239  207,297");
+}#curve373 {
+ d: path("M235,232  264,270");
+}
+/*3 rings*/
+
+/* 4 beads*/
+  #curve411 {
+  d: path("M147,225  108,290");
+}
+
+#curve412 {
+  d: path("M180,235  171,290");
+}
+
+#curve413 {
+ d: path("M211,233  227,290");
+}
+
+#curve414 {
+  d: path("M238,221  277,280");
+}
+/**/
+  #curve421 {
+  d: path("M155,224  126,280");
+}
+
+#curve422 {
+  d: path("M186,233  181,290");
+}
+
+#curve423 {
+ d: path("M218,232  239,290");
+}
+
+#curve424 {
+  d: path("M248,218  291,280");
+}
+/**/
+   #curve431 {
+  d: path("M155,224  126,280");
+}
+
+#curve432 {
+  d: path("M186,233  181,290");
+}
+
+#curve433 {
+ d: path("M218,232  239,290");
+}
+
+#curve434 {
+  d: path("M248,218  291,280");
+}
+  #curve441 {
+  d: path("M155,224  126,280");
+}
+
+#curve442 {
+  d: path("M186,233  181,290");
+}
+
+#curve443 {
+ d: path("M218,232  239,290");
+}
+
+#curve444 {
+  d: path("M248,218  291,280");
+}
+  #curve451 {
+  d: path("M167,232  155,270");
+}
+
+#curve452 {
+  d: path("M199,236  204,280");
+}
+
+#curve453 {
+ d: path("M232,225  262,280");
+}
+
+#curve454 {
+  d: path("M253,207  303,250");
+}
+  #curve461 {
+  d: path("M167,232  155,270");
+}
+
+#curve462 {
+  d: path("M199,236  204,280");
+}
+
+#curve463 {
+ d: path("M232,225  262,280");
+}
+
+#curve464 {
+  d: path("M253,207  303,250");
+}
+  #curve471 {
+  d: path("M155,224  126,280");
+}
+
+#curve472 {
+  d: path("M186,233  181,290");
+}
+
+#curve473 {
+ d: path("M218,232  239,290");
+}
+
+#curve474 {
+  d: path("M248,218  291,280");
+}
+/* 4 beads*/
+
+/* 5 beads*/
+ #curve511 {
+  d: path("M138,210  78,277");
+}
+#curve512 {
+  d: path("M160,227  137,280");
+}
+#curve513 {
+  d: path("M190,235  190,290");
+}
+
+#curve514 {
+ d: path("M221,230  248,290");
+}
+
+#curve515 {
+  d: path("M245,213  295,270");
+}
+ #curve521 {
+  d: path("M141,217  99,270");
+}
+#curve522 {
+  d: path("M163,229  146,280");
+}
+#curve523 {
+  d: path("M195,235  198,290");
+}
+
+#curve524 {
+ d: path("M224,227  262,290");
+}
+
+#curve525 {
+  d: path("M250,210  318,270");
+}
+ #curve531 {
+  d: path("M141,217  100,270");
+}
+#curve532 {
+  d: path("M163,229  146,280");
+}
+#curve533 {
+  d: path("M195,235  198,290");
+}
+
+#curve534 {
+ d: path("M224,227  262,290");
+}
+
+#curve535 {
+  d: path("M250,210  318,270");
+}
+ #curve541 {
+  d: path("M141,217  100,270");
+}
+#curve542 {
+  d: path("M163,229  146,280");
+}
+#curve543 {
+  d: path("M195,235  198,290");
+}
+
+#curve544 {
+ d: path("M224,227  262,290");
+}
+
+#curve545 {
+  d: path("M250,210  318,270");
+}
+ #curve551 {
+  d: path("M147,222  114,270");
+}
+#curve552 {
+  d: path("M175,230  167,280");
+}
+#curve553 {
+  d: path("M209,232  222,290");
+}
+
+#curve554 {
+ d: path("M236,219  295,290");
+}
+
+#curve555 {
+  d: path("M256,198  343,250");
+}
+ #curve561 {
+  d: path("M158,223  124,270");
+}
+#curve562 {
+  d: path("M175,230  167,280");
+}
+#curve563 {
+  d: path("M209,232  222,290");
+}
+
+#curve564 {
+ d: path("M236,219  295,290");
+}
+
+#curve565 {
+  d: path("M256,198  343,250");
+}
+ #curve571 {
+  d: path("M141,217  100,270");
+}
+#curve572 {
+  d: path("M163,229  146,280");
+}
+#curve573 {
+  d: path("M195,235  198,290");
+}
+
+#curve574 {
+ d: path("M224,227  262,290");
+}
+
+#curve575 {
+  d: path("M250,210  318,270");
+}
+/* 5 beads*/
+
+}
